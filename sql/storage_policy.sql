@@ -34,3 +34,4 @@ TO public
 USING (
   bucket_id = 'kosfinder-demo'
 );
+

@@ -11,3 +11,4 @@ class CloudConfig {
   /// Getter untuk mengecek apakah integrasi Supabase aktif.
   static bool get enabled => url.isNotEmpty && publishableKey.isNotEmpty;
 }
+

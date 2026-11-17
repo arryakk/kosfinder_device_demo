@@ -603,3 +603,4 @@ class _DeviceDemoPageState extends State<DeviceDemoPage> {
     );
   }
 }
+
